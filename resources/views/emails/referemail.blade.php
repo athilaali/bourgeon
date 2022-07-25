@@ -1,0 +1,1 @@
+<a href="{{$refer_link}}"> Click Here </a>
